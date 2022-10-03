@@ -1,0 +1,12 @@
+<browser-action actionType="BrowserMouseOver" isHit="true"
+    name="mouseover" uid="dbcc40cb-219c-49e4-920c-fc694f540565">
+    <description>Positions the mouse over the specified coordinates or element location. Scrolls the window when that position is out of the current viewport.
+
+Possible parameters are:&#xd;
+- selector (optional): The selector is a string that point to the elements in the page. Several types of selector are supported: Text, CSS, XPath...&#xd;
+- coordinates (optional): Coordinates of the mouse, relative to the selector if specified, absolute otherwise. If no coordinates are specified with selector, the mouse will be placed at the middle of the element. Example: 100.0;200.0&#xd;
+- timeout (optional): Forces the timeout for that action in ms. (only used with selector)&#xd;
+- frameName (optional): Frame name</description>
+    <custom-action-parameter name="selector" type="TEXT" value="#jc6987-0 > div:nth-child(1)"/>
+    <responsePageFileDescription>recorded-responses/res_dbcc40cb-219c-49e4-920c-fc694f540565</responsePageFileDescription>
+</browser-action>

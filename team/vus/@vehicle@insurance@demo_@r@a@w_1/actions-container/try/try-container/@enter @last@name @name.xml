@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Enter LastName Name" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="aa06fd42-c7cc-462c-a2e7-bb87e21ff1c2" weightsEnabled="false">
+    <weighted-embedded-action uid="e6b0e93c-0388-4302-be29-9272c308b444"/>
+    <weighted-embedded-action uid="172d50aa-ebd2-4e1c-aab2-df1580143c64"/>
+    <weighted-embedded-action uid="8ec01f85-dd0b-4fa2-9b43-cf377369af8f"/>
+    <weighted-embedded-action uid="9dcc7459-d143-4fc3-af9b-1b74d5325484"/>
+    <weighted-embedded-action uid="67c62cd2-e498-46b7-831d-0b29dc2660b7"/>
+    <weighted-embedded-action uid="ed4c61bf-c916-4dfa-8dfb-cc8924424f8f"/>
+    <weighted-embedded-action uid="e72b18d9-5e0f-4db2-b0e9-0527ed0fcf4d"/>
+</basic-logical-action-container>

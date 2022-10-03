@@ -1,0 +1,17 @@
+<browser-action actionType="BrowserClick" isHit="true"
+    name="Click on _kW_" uid="45796216-4bf2-486b-bb80-3b7bf14b5995">
+    <description>Click a selector.
+
+Possible parameters are:&#xd;
+- selector (required): The selector is a string that point to the elements in the page. Several types of selector are supported: Text, CSS, XPath...&#xd;
+- force (optional): Forces the click, even if the target element is obscured by other elements&#xd;
+- mouseButton (optional): LEFT, MIDDLE or RIGHT. Default to LEFT.&#xd;
+- doubleClick (optional): Peforms a double click. Default value is "false".&#xd;
+- modifiers (optional): Modifier keys to press separated by "+" like Control+Shift.&#xd;
+- waitForNavigation (optional): Waits for the frame navigation. Default value is "false".&#xd;
+- timeout (optional): Forces the timeout for that action in ms.&#xd;
+- frameName (optional): Frame name</description>
+    <custom-action-parameter name="selector" type="TEXT" value="[name='[kW]']"/>
+    <responsePageFileDescription>recorded-responses/res_5150bb49-b835-427f-9aa7-f696288dd650</responsePageFileDescription>
+    <screenshotFileDescription>recorded-screenshots/sc_5150bb49-b835-427f-9aa7-f696288dd650.0.jpg</screenshotFileDescription>
+</browser-action>

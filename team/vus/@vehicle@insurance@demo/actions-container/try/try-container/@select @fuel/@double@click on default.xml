@@ -1,0 +1,18 @@
+<browser-action actionType="BrowserClick" isHit="true"
+    name="DoubleClick on default" uid="4803ee38-4b03-4a2d-bbc5-b8d00c4ec835">
+    <description>Click a selector.
+
+Possible parameters are:&#xd;
+- selector (required): The selector is a string that point to the elements in the page. Several types of selector are supported: Text, CSS, XPath...&#xd;
+- force (optional): Forces the click, even if the target element is obscured by other elements&#xd;
+- mouseButton (optional): LEFT, MIDDLE or RIGHT. Default to LEFT.&#xd;
+- doubleClick (optional): Peforms a double click. Default value is "false".&#xd;
+- modifiers (optional): Modifier keys to press separated by "+" like Control+Shift.&#xd;
+- waitForNavigation (optional): Waits for the frame navigation. Default value is "false".&#xd;
+- timeout (optional): Forces the timeout for that action in ms.&#xd;
+- frameName (optional): Frame name</description>
+    <custom-action-parameter name="selector" type="TEXT" value="[name='Fuel Type']"/>
+    <custom-action-parameter name="doubleClick" type="TEXT" value="true"/>
+    <responsePageFileDescription>recorded-responses/res_69739f41-e844-46b4-93f8-0f15fad9c06a</responsePageFileDescription>
+    <screenshotFileDescription>recorded-screenshots/sc_69739f41-e844-46b4-93f8-0f15fad9c06a.0.jpg</screenshotFileDescription>
+</browser-action>

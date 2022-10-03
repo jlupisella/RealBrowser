@@ -1,0 +1,12 @@
+<browser-action actionType="BrowserNavigate" isHit="true"
+    name="Navigate to https://www.ko...tml/store.html" uid="e445a14c-a39d-4e48-88eb-be0588e3d662">
+    <description>Navigate to an url.
+
+Possible parameters are:&#xd;
+- url (required): URL to visit. The URL should include scheme, for example "https://".&#xd;
+- timeout (optional): Forces the timeout for that action in ms.</description>
+    <custom-action-parameter name="url" type="TEXT" value="https://www.konakart.com/konakart_tiles/gensrc/html/store.html"/>
+    <responsePageFileDescription>recorded-responses/res_e445a14c-a39d-4e48-88eb-be0588e3d662</responsePageFileDescription>
+    <screenshotFileDescription>recorded-screenshots/sc_e445a14c-a39d-4e48-88eb-be0588e3d662.jpg</screenshotFileDescription>
+    <embedded-action>5519930b-d5e5-4546-b478-b9c9bc8ae3b2</embedded-action>
+</browser-action>

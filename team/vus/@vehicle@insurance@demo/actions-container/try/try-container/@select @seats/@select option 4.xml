@@ -1,0 +1,18 @@
+<browser-action actionType="BrowserSelectOption" isHit="true"
+    name="Select option 4" uid="a3c1966c-2628-480f-adbc-5339c90fdd38">
+    <description>Select an option from the html select element identified by the selector.
+You can specify several options if the select element has the 'multiple' attribute, or you can specify none to clear the selection.
+
+Possible parameters are:&#xd;
+- selector (required): The selector is a string that point to the elements in the page. Several types of selector are supported: Text, CSS, XPath...&#xd;
+- options[0].text (optional): Select the option with a matching text. Multiple options can be selected by adding more parameters with a different index.&#xd;
+- options[0].value (optional): Select the option with a matching index. Multiple options can be selected by adding more parameters with a different index.&#xd;
+- options[0].index (optional): Select the option with a matching value. Multiple options can be selected by adding more parameters with a different index.&#xd;
+- waitForNavigation (optional): Waits for the frame navigation. Default value is "false".&#xd;
+- timeout (optional): Forces the timeout for that action in ms.&#xd;
+- frameName (optional): Frame name</description>
+    <custom-action-parameter name="selector" type="TEXT" value="[name='Number of Seats']"/>
+    <custom-action-parameter name="options[0].text" type="TEXT" value="4"/>
+    <responsePageFileDescription>recorded-responses/res_99b8313d-8558-4829-8436-48a39045a6bb</responsePageFileDescription>
+    <screenshotFileDescription>recorded-screenshots/sc_99b8313d-8558-4829-8436-48a39045a6bb.0.jpg</screenshotFileDescription>
+</browser-action>

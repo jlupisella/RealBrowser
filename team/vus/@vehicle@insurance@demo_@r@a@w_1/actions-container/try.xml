@@ -1,0 +1,23 @@
+<try-action catch-assertions="true" catch-errors="true" name="try" uid="ae87b4f4-9a41-483a-b37d-90fcfe2bfe02">
+    <try-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed until an error or assertion occurs.</description>
+        <weighted-embedded-action uid="1b767346-e496-4b76-81c6-b38384037383"/>
+        <weighted-embedded-action uid="f64e7b6e-0d5f-47e0-903d-b382e96eb214"/>
+        <weighted-embedded-action uid="c9a4aefb-c030-48ef-a49a-531fde53f25d"/>
+        <weighted-embedded-action uid="d7f62a84-0117-4901-a25b-69d91a9dd08a"/>
+        <weighted-embedded-action uid="e9bf1a12-b66c-444e-b741-63d402f4eb98"/>
+        <weighted-embedded-action uid="31451471-f56e-43cf-8057-83f6c34c2e01"/>
+        <weighted-embedded-action uid="aacce92a-4dc4-4a07-9648-5c3e956d819b"/>
+        <weighted-embedded-action uid="b68bb2d2-a4ce-4c12-b285-aeb68a70398d"/>
+        <weighted-embedded-action uid="27265e2d-dad3-4d90-9f13-e300118a4129"/>
+        <weighted-embedded-action uid="19186100-6fbb-48fb-bf1e-96f872414523"/>
+        <weighted-embedded-action uid="aa06fd42-c7cc-462c-a2e7-bb87e21ff1c2"/>
+    </try-container>
+    <catch-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when an error or assertion occurs in the Try container.</description>
+    </catch-container>
+</try-action>

@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select Fuel" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="a97660af-85e6-4dd0-b8f0-327cd07cfb93" weightsEnabled="false">
+    <weighted-embedded-action uid="d50b8f81-b483-4e80-8bd8-9025f2ff37a7"/>
+    <weighted-embedded-action uid="2122d439-7f25-4c20-bf55-c51602b9a8db"/>
+    <weighted-embedded-action uid="0278a9f9-c10b-4050-b9af-e1ad012bc23e"/>
+    <weighted-embedded-action uid="f4649005-efcd-4208-83e0-6419259227bf"/>
+</basic-logical-action-container>
