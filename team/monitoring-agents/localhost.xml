@@ -50,4 +50,13 @@
         </lg-address>
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
+    <lg-networkiface
+        description="Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64"
+        enabled="false" isLoopBack="false" name="eth13">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="pc053.intranet.neotys.com">
+            <ip value="192.168.150.244"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
 </me-host>
