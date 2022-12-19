@@ -14,5 +14,8 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="[name='Make']"/>
     <custom-action-parameter name="options[0].text" type="TEXT" value="Ford"/>
     <responsePageFileDescription>recorded-responses/res_c55ee753-9cc6-45f8-9436-c70883d7df5b</responsePageFileDescription>
+    <assertions>
+        <assertion-content name="assertion_1" notType="false" pattern="JEFFREY!"/>
+    </assertions>
     <screenshotFileDescription>recorded-screenshots/sc_c55ee753-9cc6-45f8-9436-c70883d7df5b.0.jpg</screenshotFileDescription>
 </browser-action>
