@@ -6,7 +6,7 @@
         <duration-policy-entry iterations="1" time="1200" timeUnit="0" type="2"/>
         <volume-policy-entry>
             <rampup-volume-policy delayIncrement="2.0"
-                delayTypeIncrement="2" initialUserNumber="5"
+                delayTypeIncrement="2" initialUserNumber="6"
                 iterationNumber="1" maxUserNumber="0" userIncrement="5"/>
         </volume-policy-entry>
         <start-stop-policy-entry start-delay="0" start-type="0"
