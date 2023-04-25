@@ -12,4 +12,4 @@ project.config.path=config.zip
 project.config.storage=ZIP
 team.server.enabled=true
 team.server.project=/jlupisella/RealBrowser
-project.workspace=5f3aaa9b7c07bd0001bf718c
+ssh.trustUnknownHosts.MONITORS=false

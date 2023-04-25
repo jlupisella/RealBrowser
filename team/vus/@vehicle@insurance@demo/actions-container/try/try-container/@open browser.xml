@@ -19,5 +19,7 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="browser" type="TEXT" value="chromium"/>
     <custom-action-parameter name="locale" type="TEXT" value="en-US"/>
     <custom-action-parameter name="timezone" type="TEXT" value="America/New_York"/>
+    <custom-action-parameter name="defaultTimeout" type="TEXT" value="60000"/>
+    <custom-action-parameter name="resolution" type="TEXT" value="1920 x 1080"/>
     <responsePageFileDescription>recorded-responses/res_b444534b-3191-4634-980a-6c3010bb6e8b</responsePageFileDescription>
 </browser-action>

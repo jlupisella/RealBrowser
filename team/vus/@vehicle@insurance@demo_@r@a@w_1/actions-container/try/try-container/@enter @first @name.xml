@@ -1,7 +1,0 @@
-<basic-logical-action-container element-number="1" execution-type="0"
-    name="Enter First Name" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="19186100-6fbb-48fb-bf1e-96f872414523" weightsEnabled="false">
-    <weighted-embedded-action uid="388aead7-a028-48b2-a5fc-6ad5139b341b"/>
-    <weighted-embedded-action uid="7e270d6d-06ac-4540-979e-562553c0cf20"/>
-</basic-logical-action-container>

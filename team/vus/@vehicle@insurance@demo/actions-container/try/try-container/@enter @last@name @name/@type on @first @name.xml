@@ -11,7 +11,7 @@ Possible parameters are:&#xd;
 - delay (optional): Adds delay between each keydown/keyup sequence in ms. Used only when mode TYPE is selected. Default to 100&#xd;
 - frameName (optional): Frame name</description>
     <custom-action-parameter name="selector" type="TEXT" value="[name='First Name']"/>
-    <custom-action-parameter name="text" type="TEXT" value="Jeff"/>
+    <custom-action-parameter name="text" type="TEXT" value="${FirstAndLastNames.First}"/>
     <responsePageFileDescription>recorded-responses/res_5c5a6497-6809-4188-9da6-9d00b385d031</responsePageFileDescription>
     <screenshotFileDescription>recorded-screenshots/sc_5c5a6497-6809-4188-9da6-9d00b385d031.0.jpg</screenshotFileDescription>
 </browser-action>

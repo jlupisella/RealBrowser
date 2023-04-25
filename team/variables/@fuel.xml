@@ -1,0 +1,4 @@
+<variable-list name="Fuel" offset="1" order="2" policy="4" range="1" uid="49f4b79d-f02f-4f6b-a910-61ae7fdfc5ea" whenOutOfValues="CYCLE_VALUES">
+<column name="Type" number="0"/>
+<values><![CDATA[rO0ABXVyABRbW0xqYXZhLmxhbmcuU3RyaW5nOzJNCa2EMuRXAgAAeHAAAAAFdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQABlBldHJvbHVxAH4AAgAAAAF0AAZEaWVzZWx1cQB+AAIAAAABdAAORWxlY3RyaWMgUG93ZXJ1cQB+AAIAAAABdAADR2FzdXEAfgACAAAAAXQABU90aGVy]]></values>
+</variable-list>

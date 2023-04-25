@@ -1,0 +1,15 @@
+<browser-action actionType="BrowserRead" isHit="false" name="read" uid="3d25294e-647f-4bf2-a24c-a2490479d71b">
+    <description>Read the text content of an Element.
+
+Possible parameters are:&#xd;
+- selector (required): The selector is a string that point to the elements in the page. Several types of selector are supported: text, CSS, XPath...
+	You can specify several selectors by adding multiple "selector" parameters to this action. The targeted element will match any of the selectors (OR operator).&#xd;
+- variableName (optional): The variable name of the text result.&#xd;
+- attribute (optional): If specified, returns the attribute's value instead of the text value of the selected element&#xd;
+- timeout (optional): Forces the timeout for that action in ms. By default the OpenBrowser defaultTimeout is used.&#xd;
+- frameIndex (optional): Frame index. Takes priority over frameName parameter.&#xd;
+- frameName (optional): Frame name.&#xd;
+- ignoreErrors (optional): true of false to ignore errors. Default value is "true".</description>
+    <custom-action-parameter name="selector" type="TEXT" value="#site-content > header:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(1) > a:nth-child(1)"/>
+    <custom-action-parameter name="variableName" type="TEXT" value="LinkName"/>
+</browser-action>

@@ -1,0 +1,4 @@
+<variable-list name="Seats" offset="1" order="2" policy="4" range="1" uid="5ae045a2-7c99-4666-975a-ddaf83fa8642" whenOutOfValues="CYCLE_VALUES">
+<column name="Number" number="0"/>
+<values><![CDATA[rO0ABXVyABRbW0xqYXZhLmxhbmcuU3RyaW5nOzJNCa2EMuRXAgAAeHAAAAAJdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAATF1cQB+AAIAAAABdAABMnVxAH4AAgAAAAF0AAEzdXEAfgACAAAAAXQAATR1cQB+AAIAAAABdAABNXVxAH4AAgAAAAF0AAE2dXEAfgACAAAAAXQAATd1cQB+AAIAAAABdAABOHVxAH4AAgAAAAF0AAE5]]></values>
+</variable-list>

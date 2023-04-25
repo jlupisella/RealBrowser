@@ -1,7 +1,0 @@
-<basic-logical-action-container element-number="1" execution-type="0"
-    name="Select Next" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="27265e2d-dad3-4d90-9f13-e300118a4129" weightsEnabled="false">
-    <weighted-embedded-action uid="1404f775-6237-4af9-b307-0b9d96f2392b"/>
-    <weighted-embedded-action uid="1e4187f4-2aa5-4612-83eb-2a179682edb5"/>
-</basic-logical-action-container>
