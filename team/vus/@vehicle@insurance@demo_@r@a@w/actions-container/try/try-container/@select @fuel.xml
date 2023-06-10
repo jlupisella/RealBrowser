@@ -1,9 +1,15 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="Select Fuel" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="a97660af-85e6-4dd0-b8f0-327cd07cfb93" weightsEnabled="false">
-    <weighted-embedded-action uid="d50b8f81-b483-4e80-8bd8-9025f2ff37a7"/>
-    <weighted-embedded-action uid="2122d439-7f25-4c20-bf55-c51602b9a8db"/>
-    <weighted-embedded-action uid="0278a9f9-c10b-4050-b9af-e1ad012bc23e"/>
-    <weighted-embedded-action uid="f4649005-efcd-4208-83e0-6419259227bf"/>
+    uid="b3969e43-0712-4772-99cf-260c22c2a202" weightsEnabled="false">
+    <weighted-embedded-action uid="4cf13cb7-7427-4481-8d23-b9d73ab6c7ed"/>
+    <weighted-embedded-action uid="f9cee689-2597-4cb4-91e5-e5a17455b381"/>
+    <weighted-embedded-action uid="1b55ef81-5a01-458b-b1c6-9b728dab9ae9"/>
+    <weighted-embedded-action uid="11b1c01a-1930-4bcb-a149-6f69a0eaa8f5"/>
+    <weighted-embedded-action uid="40b4b97e-8b57-43f4-aba5-9b368eb0277d"/>
+    <weighted-embedded-action uid="98b5b446-97e0-4bd3-9b56-dcd0f757d79b"/>
+    <weighted-embedded-action uid="edda3a4d-b338-47b7-ad8d-43212470d76b"/>
+    <weighted-embedded-action uid="d8079c2a-3470-4a95-a64a-96b1bde1af72"/>
+    <weighted-embedded-action uid="0ff281e6-d099-44cc-a344-582769b9a3ac"/>
+    <weighted-embedded-action uid="a8ae8387-0a45-4205-acf1-b5a1d465700f"/>
 </basic-logical-action-container>

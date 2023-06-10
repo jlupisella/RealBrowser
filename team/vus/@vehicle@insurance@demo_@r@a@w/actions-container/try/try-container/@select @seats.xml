@@ -1,9 +1,15 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="Select Seats" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="6dd81775-6106-4162-af30-4a9cb4d85c49" weightsEnabled="false">
-    <weighted-embedded-action uid="54ab3d6e-5a1d-4c7e-917e-c16ce5db6010"/>
-    <weighted-embedded-action uid="7d2d55a0-9767-4634-851a-ba59813d6ce2"/>
-    <weighted-embedded-action uid="f98c903c-40ac-48b8-9b96-17d36352cf7a"/>
-    <weighted-embedded-action uid="4bf76fd7-cd46-42d8-9cf9-3cf005e2dd89"/>
+    uid="2bcd1c02-c60a-464e-b515-5bb1b38fdfc8" weightsEnabled="false">
+    <weighted-embedded-action uid="9c5261cb-715a-4f74-909d-e0a1ca24d4f1"/>
+    <weighted-embedded-action uid="6749141b-645f-444c-8573-2542932eb09f"/>
+    <weighted-embedded-action uid="f7900312-bcfd-4144-bb43-999241c17802"/>
+    <weighted-embedded-action uid="c10b6bb6-38c2-4bc3-aaa9-2c2ca871b106"/>
+    <weighted-embedded-action uid="8b3089af-0f13-41c9-9052-08261dc54a1a"/>
+    <weighted-embedded-action uid="b34592c7-c90a-4ca2-9f75-99198135eab3"/>
+    <weighted-embedded-action uid="7ba50b45-7cdc-4fc4-96e7-ac9bf215d285"/>
+    <weighted-embedded-action uid="db14c1df-8b7b-4764-8674-c00cdd1eeb5b"/>
+    <weighted-embedded-action uid="81a2e1e7-7e27-4b4e-b305-2f9a7b92240e"/>
+    <weighted-embedded-action uid="a16e4c2c-e56a-422d-b2ed-51c40ce6c299"/>
 </basic-logical-action-container>

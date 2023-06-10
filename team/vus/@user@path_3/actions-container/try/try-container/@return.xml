@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Return" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="45590d77-a49b-40df-a944-23b07dca7133" weightsEnabled="false">
+    <weighted-embedded-action uid="b1180ea6-cc2e-48e4-a3aa-bac6911a7e3b"/>
+    <weighted-embedded-action uid="c1b3b979-e577-447f-95fa-9e6a5b9f8e57"/>
+</basic-logical-action-container>

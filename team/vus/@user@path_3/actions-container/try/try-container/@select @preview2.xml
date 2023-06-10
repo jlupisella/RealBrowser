@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select Preview2" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="797bd337-bbb7-4fe9-bef1-4c31f63900a3" weightsEnabled="false">
+    <weighted-embedded-action uid="1e5f0b6c-7074-4c49-a1f6-bcdee1ed4ab2"/>
+    <weighted-embedded-action uid="2d0dd7d8-ef1c-4e41-b653-f2f834fb975e"/>
+</basic-logical-action-container>

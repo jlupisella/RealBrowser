@@ -1,0 +1,26 @@
+<try-action catch-assertions="false" catch-errors="true" name="try" uid="55e05a2b-5b9c-4212-bf2f-ffaefcf8640a">
+    <try-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed until an error or assertion occurs.</description>
+        <weighted-embedded-action uid="3a462ad7-fcff-4df4-a52a-bc5fb07cd283"/>
+        <weighted-embedded-action uid="188f0f1e-3d2b-4f97-85b8-91898fd5f438"/>
+        <weighted-embedded-action uid="fcee64e4-78b4-4032-bae4-bee100381daf"/>
+        <weighted-embedded-action uid="2a481601-a6b3-4aa0-a938-2b48fa992024"/>
+        <weighted-embedded-action uid="289406e8-f5ef-4728-a02f-b9123fb2cca3"/>
+        <weighted-embedded-action uid="b93eb21d-59de-4f0f-ae2a-858a3c3eb432"/>
+        <weighted-embedded-action uid="3badeb33-332e-4200-b582-dd29adcef250"/>
+        <weighted-embedded-action uid="99112a73-3c50-41ee-99f9-01a01724f851"/>
+        <weighted-embedded-action uid="45590d77-a49b-40df-a944-23b07dca7133"/>
+        <weighted-embedded-action uid="f0fbcc3f-0f3b-4e65-822f-e3c6b28e89f8"/>
+        <weighted-embedded-action uid="e1f4f47d-4a91-492a-9d13-f50f43557f1e"/>
+        <weighted-embedded-action uid="797bd337-bbb7-4fe9-bef1-4c31f63900a3"/>
+        <weighted-embedded-action uid="ecbb93fe-41d2-40b1-b681-598f299959ec"/>
+        <weighted-embedded-action uid="6608f1ce-b566-4346-ae7c-bbd4082fead3"/>
+    </try-container>
+    <catch-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when an error or assertion occurs in the Try container.</description>
+    </catch-container>
+</try-action>

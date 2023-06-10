@@ -1,0 +1,18 @@
+<if-action name="condition" uid="adbd357a-dab8-4dc6-980d-9c0609de9a07">
+    <then-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when the condition is true.</description>
+        <weighted-embedded-action uid="5fda8592-b1c8-4558-931d-ed303de5049a"/>
+    </then-container>
+    <else-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when the condition is false.</description>
+        <weighted-embedded-action uid="065e1dba-1d49-4e60-a140-43d1b0b46816"/>
+        <weighted-embedded-action uid="6950983b-81b4-4657-82e1-c1b1f391ca08"/>
+    </else-container>
+    <conditions match-type="1">
+        <condition operand1="${loop_counter}" operand2="88" operator="EQUALS"/>
+    </conditions>
+</if-action>

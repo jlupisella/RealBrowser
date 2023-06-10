@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Type NFL" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="c6fc359e-11eb-4393-bfab-53012b0645d6" weightsEnabled="false">
+    <weighted-embedded-action uid="4da7e8b8-32a6-4859-8194-1d79c8031eed"/>
+</basic-logical-action-container>
+<shared-element>c6fc359e-11eb-4393-bfab-53012b0645d6</shared-element>

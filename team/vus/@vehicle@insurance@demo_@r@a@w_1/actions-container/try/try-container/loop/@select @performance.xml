@@ -1,0 +1,15 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select Performance" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="26db385f-e599-4f4e-b364-ec9e17108dd7" weightsEnabled="false">
+    <weighted-embedded-action uid="8cb5a2fe-a126-41d3-907a-34ff48d243d0"/>
+    <weighted-embedded-action uid="e4817e98-a3ed-4636-94cb-6f4a80a7d0aa"/>
+    <weighted-embedded-action uid="d2b7d773-a97f-4fdb-a8d0-7f8c5685d068"/>
+    <weighted-embedded-action uid="bf4629ea-bcda-4228-ba3a-d5aac4f3149d"/>
+    <weighted-embedded-action uid="5c162fed-c921-4412-8581-9594f06fa3d9"/>
+    <weighted-embedded-action uid="5cc201b5-8f15-4b85-954d-7cef0a15b40b"/>
+    <weighted-embedded-action uid="5544361e-6779-4f85-bd92-16b70e49932b"/>
+    <weighted-embedded-action uid="50d4ca81-dfea-4cd4-8f31-efa335d78611"/>
+    <weighted-embedded-action uid="a55c4e5f-04bd-4c24-a38e-e48a52d69da8"/>
+    <weighted-embedded-action uid="61ab73c0-1d31-4889-add5-4391b1ea868f"/>
+</basic-logical-action-container>

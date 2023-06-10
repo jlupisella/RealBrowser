@@ -1,0 +1,44 @@
+<try-action catch-assertions="false" catch-errors="true" name="try" uid="54126284-f320-496f-aa06-01f6ae1afe0f">
+    <try-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed until an error or assertion occurs.</description>
+        <weighted-embedded-action uid="246f962d-ee4e-4059-b745-f55eaac9d23e"/>
+        <weighted-embedded-action uid="a5bac801-412f-491c-8b63-49a9ba06dfb9"/>
+        <weighted-embedded-action uid="68aa37a4-321b-49ee-a5bc-1e5eaf00e543"/>
+        <weighted-embedded-action uid="3f1e243e-86e3-485d-a0d3-6933ce9fa2a1"/>
+        <weighted-embedded-action uid="0e5e3aef-7e84-4d9c-a8ca-de4d3ccc7581"/>
+        <weighted-embedded-action uid="cbf8dd2f-09e1-445e-85ec-1fdfafc92484"/>
+        <weighted-embedded-action uid="5ba4fe2b-ae84-43f0-97ac-691c6ec4d344"/>
+        <weighted-embedded-action uid="c6fc359e-11eb-4393-bfab-53012b0645d6"/>
+        <weighted-embedded-action uid="49504a94-b885-44f4-9ae5-d6444b12bdb1"/>
+        <weighted-embedded-action uid="2d8fc50f-d26a-4440-92ae-73001f0bcb94"/>
+        <weighted-embedded-action uid="77d77ebf-cd67-4e3f-baa5-c47634f5b598"/>
+        <weighted-embedded-action uid="2bfce010-afd4-4df9-a4ba-acbb4d30cba7"/>
+        <weighted-embedded-action uid="5aef22a2-0421-48b1-a58d-54377de6492e"/>
+        <weighted-embedded-action uid="362c0ab1-f949-459e-996a-b520744a1567"/>
+        <weighted-embedded-action uid="1e2a1805-27ef-47e6-b8a7-332eb143592c"/>
+        <weighted-embedded-action uid="9354a9f7-784d-40d3-83ef-caa6d46a1ec0"/>
+        <weighted-embedded-action uid="12eb9b10-287e-453b-8fe1-131e4c93703e"/>
+        <weighted-embedded-action uid="570ea034-5e39-42c7-8b35-847aca9bc457"/>
+        <weighted-embedded-action uid="91a1d8ae-dbe6-416f-9816-61413fe83c46"/>
+        <weighted-embedded-action uid="6cc488e9-eace-437e-9efd-147b6ffc00d9"/>
+        <weighted-embedded-action uid="4c1ccb71-d8d7-4bf0-90d2-664a0db3d29f"/>
+        <weighted-embedded-action uid="5e50aca2-5e95-4fd7-bf95-08ac6620be33"/>
+        <weighted-embedded-action uid="b862920b-a074-4319-80c5-17ae4cf33ab9"/>
+        <weighted-embedded-action uid="5dde6432-f6a8-4e98-bc73-7cd8021a0f9d"/>
+        <weighted-embedded-action uid="ecd11887-12cf-44d6-914e-fd6c31a78eda"/>
+        <weighted-embedded-action uid="eb38720e-24e2-48ad-a297-4d112992616f"/>
+        <weighted-embedded-action uid="48169a94-399d-42dc-929e-9296155f5dc0"/>
+        <weighted-embedded-action uid="a823acf7-d564-4b6b-a70f-6b690972ca33"/>
+        <weighted-embedded-action uid="71095732-3968-451c-9bf0-1b74c5152ad2"/>
+        <weighted-embedded-action uid="274fbd75-9912-4cb9-a36e-7f5451510ad8"/>
+        <weighted-embedded-action uid="677fbf14-c381-4a1e-a6ab-2dbf956ddc27"/>
+        <weighted-embedded-action uid="c2f4a4a3-d0a0-4130-a0ef-f5c6587be59e"/>
+    </try-container>
+    <catch-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when an error or assertion occurs in the Try container.</description>
+    </catch-container>
+</try-action>

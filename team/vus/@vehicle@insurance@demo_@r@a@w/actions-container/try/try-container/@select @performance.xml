@@ -1,9 +1,15 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="Select Performance" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="09761b0e-be5e-42c3-8784-a66af704c629" weightsEnabled="false">
-    <weighted-embedded-action uid="a57bca14-95bf-42a4-ac75-0c92a12b8ed0"/>
-    <weighted-embedded-action uid="2ba0025f-5025-458e-bfef-d3f77f4bbbfb"/>
-    <weighted-embedded-action uid="c4f1b7d1-9426-452e-8e66-bb1d82667711"/>
-    <weighted-embedded-action uid="1a37416d-8252-430f-a747-62d43be63ddd"/>
+    uid="edd26079-36aa-4f3b-b713-15aaecd768d2" weightsEnabled="false">
+    <weighted-embedded-action uid="2fa496ec-3a29-4af8-9014-3100d1763b42"/>
+    <weighted-embedded-action uid="91eb0f5b-cf11-4585-99c2-b6dcc3b23f82"/>
+    <weighted-embedded-action uid="bb9fc2ea-96cd-4d86-9b1f-d8557f886568"/>
+    <weighted-embedded-action uid="132ecc1d-d732-46a5-9760-c7d90b21f461"/>
+    <weighted-embedded-action uid="c4376895-bcd4-4403-b672-41deaa06a4e6"/>
+    <weighted-embedded-action uid="aca15de9-80a3-43fb-950f-251d938ab6f9"/>
+    <weighted-embedded-action uid="0c386aa5-d4f0-44b4-af7c-513ec324fc03"/>
+    <weighted-embedded-action uid="6e7e1de3-ff94-4dfe-8b1a-ced2f96de1d2"/>
+    <weighted-embedded-action uid="dfb810dd-af54-4893-aae4-c23cf2e999d6"/>
+    <weighted-embedded-action uid="85e86e2a-687e-4699-98ce-c21882e94365"/>
 </basic-logical-action-container>

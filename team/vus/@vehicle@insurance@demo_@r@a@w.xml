@@ -11,14 +11,14 @@
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements repeated until the Virtual User stops.</description>
-        <weighted-embedded-action uid="042a35c9-37dc-4076-8e57-b409f113c253"/>
-        <weighted-embedded-action uid="e4c50b82-046d-40bb-964e-ba2e6a96a4d6"/>
+        <weighted-embedded-action uid="d4a942a2-8e32-4413-981d-bc7655bfca70"/>
+        <weighted-embedded-action uid="c48e6f18-a356-4f45-a075-888e968c1077"/>
     </actions-container>
     <end-container element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements executed before the Virtual User stops.</description>
-        <weighted-embedded-action uid="42134dcb-dfce-449b-889e-533217188fa2"/>
+        <weighted-embedded-action uid="ed3ff5e2-d25f-48bb-8b6d-13cf92147882"/>
     </end-container>
     <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
         thinktimeFactorValue="100" thinktimePolicy="0"

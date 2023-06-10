@@ -1,0 +1,11 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select Next" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="d9230e32-8840-4fc3-8d53-b79151939ba7" weightsEnabled="false">
+    <weighted-embedded-action uid="39bc6055-90a8-4127-b6e9-3025f845ffe2"/>
+    <weighted-embedded-action uid="c1059584-ef4e-4b33-9d36-df666cd9f4b6"/>
+    <weighted-embedded-action uid="0deb3239-1161-4cd1-a10b-91d88b343dee"/>
+    <weighted-embedded-action uid="ebf39622-da69-40b1-a196-b4a694a95f0e"/>
+    <weighted-embedded-action uid="97a649f6-1de5-493f-a1f2-91b1877f9a92"/>
+    <weighted-embedded-action uid="69ce6058-7df1-418c-8a39-a96553d4faa5"/>
+</basic-logical-action-container>

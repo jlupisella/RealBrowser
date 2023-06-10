@@ -1,5 +1,5 @@
-<browser-action actionType="BrowserClose" isHit="true"
-    name="Close browser" uid="e4c50b82-046d-40bb-964e-ba2e6a96a4d6">
+<browser-action actionType="BrowserClose" isHit="false"
+    name="Close browser" uid="c48e6f18-a356-4f45-a075-888e968c1077">
     <description>Close the browser.
 
 This action is useful for avoiding stacking browser instances on a single VU. The recommended configurations are : 
@@ -7,6 +7,8 @@ This action is useful for avoiding stacking browser instances on a single VU. Th
 - If the OpenBrowser action is at the beginning of the ACTIONS container, put the CloseBrowser action at end of the ACTIONS container.
 
 Possible parameters are:&#xd;
-- ignoreErrors (optional): true of false to ignore close errors. Default value is "false".</description>
-    <responsePageFileDescription>recorded-responses/res_e4c50b82-046d-40bb-964e-ba2e6a96a4d6</responsePageFileDescription>
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".&#xd;
+- shouldCloseOnlyContext (optional): true or false to close only RealBrowser context and reuse previous browser for current VU. RealBrowser context is cheap to create/destroy. Default value is "false".</description>
+    <custom-action-parameter name="shouldCloseOnlyContext" type="TEXT" value="true"/>
+    <responsePageFileDescription>recorded-responses/res_c48e6f18-a356-4f45-a075-888e968c1077</responsePageFileDescription>
 </browser-action>

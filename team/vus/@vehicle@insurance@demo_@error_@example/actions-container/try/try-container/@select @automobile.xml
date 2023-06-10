@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select Automobile" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="f2fc5707-c6eb-485e-837f-c42a87b39700" weightsEnabled="false">
+    <weighted-embedded-action uid="4f40af36-eff2-479c-b423-368bce77d58e"/>
+    <weighted-embedded-action uid="54899431-478f-4ca2-ac90-8ca9d937ba46"/>
+</basic-logical-action-container>

@@ -1,9 +1,0 @@
-<basic-logical-action-container element-number="1" execution-type="0"
-    name="Select Seats" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="f3782e9d-0210-4161-b5b6-7fd651830daa" weightsEnabled="false">
-    <weighted-embedded-action uid="63107508-435f-435d-93d7-ca32b4a54e18"/>
-    <weighted-embedded-action uid="65285252-d383-4742-934a-d239d80206db"/>
-    <weighted-embedded-action uid="9337d5d4-b787-4638-b012-37651116bf33"/>
-    <weighted-embedded-action uid="a3c1966c-2628-480f-adbc-5339c90fdd38"/>
-</basic-logical-action-container>

@@ -1,7 +1,9 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="Select Automobile" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="d47fcc39-c1a4-46e5-9552-5af10394443f" weightsEnabled="false">
-    <weighted-embedded-action uid="cd6b72f3-5dc6-4353-93c3-09447e494c18"/>
-    <weighted-embedded-action uid="b8aaa1a4-aa78-45e6-ac99-9dcfc50d7372"/>
+    uid="88517398-becb-4283-8a7f-6f1e787ba51c" weightsEnabled="false">
+    <weighted-embedded-action uid="723b10ad-3cae-450e-85e5-ab3ee0e59e8d"/>
+    <weighted-embedded-action uid="ecf73469-c5de-48d9-81a9-9ad0992ee657"/>
+    <weighted-embedded-action uid="8c4ee85d-4caf-4cb4-8162-5e000d48e10a"/>
+    <weighted-embedded-action uid="d585ebdd-ee98-41e8-a47f-d9d51cd665b1"/>
 </basic-logical-action-container>

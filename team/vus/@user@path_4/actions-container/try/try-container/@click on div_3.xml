@@ -1,0 +1,28 @@
+<browser-action actionType="BrowserClick" isHit="false"
+    name="Click on div_3" uid="c72a2e7a-e3ce-4a0d-9339-1d3913d42ff4">
+    <description>Click a selector.
+
+Possible parameters are:&#xd;
+- selector (optional): The selector is a string that point to the elements in the page. Several types of selector are supported: text, CSS, XPath...
+	You can specify several selectors by adding multiple selector parameters to this action. The targeted element will match any of the selectors (OR operator). If no selector is defined, the click will occur at the point defined in the last previous Mouse Over action.&#xd;
+- coordinates (optional): Coordinates of the click, relative to the selector if specified, absolute otherwise. If no coordinates are specified with selector, the click will be performed on the middle of the element. Example: 100.0;200.0&#xd;
+- force (optional): true or false. Forces the click, even if the target element is obscured by other elements. Default value is "false".&#xd;
+- mouseButton (optional): LEFT, MIDDLE, RIGHT, BACK or FORWARD. Default to LEFT.&#xd;
+- doubleClick (optional): true or false. Performs a double click. Default value is "false".&#xd;
+- modifiers (optional): Modifier keys to press separated by "+" like Control+Shift.&#xd;
+- timeout (optional): Forces the timeout for that action in ms. By default the OpenBrowser defaultTimeout is used. Maximum value is 200000.&#xd;
+- frameIndex (optional): Frame index.&#xd;
+- frameName (optional): Frame name.&#xd;
+- frameSelector (optional): Frame selector.&#xd;
+- waitForNavigation.url (optional): URL pattern targeted, ex:http://tricentis.com/.* . The URL being navigated to must match this pattern. Enables a wait for page navigation after this action has been executed.&#xd;
+- waitForNavigation.timeout (optional): If applicable, the navigation must occur within the specified timeout in ms. By default the OpenBrowser defaultNavigationTimeout is used. Enables a wait for page navigation after this action has been executed. Maximum value is 200000.&#xd;
+- waitForNavigation.until (optional): Allowed values are : COMMIT, DOMCONTENTLOADED, LOAD, NETWORKIDLE. Default value is LOAD. The navigation will be considered done when the specified state is reached. Enables a wait for page navigation after this action has been executed.&#xd;
+- waitForDownload (optional): Enable waiting for a download if the parameter is set to true.  Default value is "false".&#xd;
+- waitForDownload.path (optional): The path where to save the the downloaded file. Can include the filename, 
+	i.e : /home/my-downloads/my-downloaded-file.txt &#xd;
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
+    <custom-action-parameter name="selector" type="TEXT" value="internal:role=link[name=&quot;NFL Football NFL Football Richard C. Crepeau - 2020 A multi-billion-dollar entertainment empire, the National Football League is a coast-to-coast obsession that borders on religion and dominates our sports-mad culture. But today's NFL also provides a stage for playing out important issues roiling American society. The updated and expanded edition of NFL Football observes the league's centennial by following the NFL into the twenty-first century, where off-the-field concerns compete with touchdowns and goal line stands for headlines. Richard Crepeau delves into the history of the league and breaks down the new era with an in-depth look at the controversies and dramas swirling around pro football today: Tensions between players and Commissioner Roger Goodell over collusion, drug policies, and revenue; The firestorm surrounding Colin Kaepernick and protests of police violence and inequality; Andrew Luck and others choosing early retirement over the threat to their long-term health; Paul Tagliabue's role in covering up information on concussions; The Super Bowl's evolution into a national holiday. Authoritative and up to the minute, NFL Football continues the epic American success story.&quot;i]"/>
+    <custom-action-parameter name="selector" type="TEXT" value="div.info:has-text(&quot;NFL Football                        Richard C. Crepeau - 2020&quot;)"/>
+    <custom-action-parameter name="selector" type="TEXT" value="html > body:nth-child(2) > book-app:nth-child(1) > main:nth-child(4) > book-explore:nth-child(2) > section:nth-child(2) > ul:nth-child(1) > li:nth-child(3) > book-item:nth-child(1) > a:nth-child(2) > div:nth-child(1)"/>
+    <screenshotFileDescription>recorded-screenshots/sc_c72a2e7a-e3ce-4a0d-9339-1d3913d42ff4.jpg</screenshotFileDescription>
+</browser-action>
